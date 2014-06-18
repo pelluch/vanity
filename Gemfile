@@ -16,7 +16,7 @@ gem "integration"
 gem "rubystats"
 
 # APIs
-gem "garb"
+gem "garb", "<= 0.9.1"
 
 # Testing
 gem "timecop", :require=>false
