@@ -23,7 +23,7 @@ gem "timecop", :require=>false
 gem "webmock", :require=>false
 
 group :development do
-  gem "appraisal", ">= 1.0.0.beta2" # For setting up test Gemfiles
+  gem "appraisal", ">= 1.0.0" # For setting up test Gemfiles
 
   gem "jekyll"
   gem "rake"
